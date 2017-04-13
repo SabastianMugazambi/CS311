@@ -3,7 +3,7 @@
 @ Date: 01/07/2017
 This files includes the main function that test the 020triangle.c rasterizing
 script.
-Run the script like so  clang 130mainProjection.c 000pixel.o -lglfw -framework OpenGL
+Run the script like so clang 130mainProjection.c 000pixel.o -lglfw -framework OpenGL
 */
 
 #include <stdio.h>
